@@ -5,7 +5,8 @@ Algoritmo "Creuza teve que pegar Empréstimo no banco"
 // Autor(a)    : Nelliel Bellamy.
 // Data atual  : 02/05/2025
 Var
-valorDoEmprestimo,numeroDeParcelas,valorEmprestimoComJuros:real
+valorDoEmprestimo,valorEmprestimoComJuros:real
+numeroDeParcelas:inteiro
 Inicio
 Escreva("Digite o valor do empréstimo R$")
 Leia(valorDoEmprestimo)
